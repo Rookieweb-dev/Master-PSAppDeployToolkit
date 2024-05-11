@@ -34,6 +34,7 @@
         "docs": true,
         "Examples": true,
         "LICENSE": true,
+        "README.md": true,
         "Testing": true,
         "wiki": true
     }
