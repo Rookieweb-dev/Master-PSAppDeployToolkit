@@ -119,7 +119,7 @@
     <!--UI
     Options-->
     <UI_Options>
-        <InstallationUI_LanguageOverride></InstallationUI_LanguageOverride>
+        <InstallationUI_LanguageOverride>EN</InstallationUI_LanguageOverride>
         <!-- Specify a static UI language using the one of the Language Codes listed below to
         override the language culture detected on the system.
              Language Code      Language        |       Language Code       Language
